@@ -18,7 +18,7 @@ After using the friggeri CV LaTeX template I decided it should be doable to use 
 
 ## Acknowledgements and Copyleft
 
-This website was adapted from and inspired by the original LaTeX template written by [Adrien Friggeri](http://www.friggeri.net/) and [Matthew Davis](https://github.com/mlda065) under the [Creative Commons 3.0 licence](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+This website was inspired by the original LaTeX template written by [Adrien Friggeri](http://www.friggeri.net/) and [Matthew Davis](https://github.com/mlda065) under the [Creative Commons 3.0 licence](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 The fonts come from [Google Fonts](https://www.google.com/fonts/specimen/Roboto) and are free under the [Apache 2.0 licence.](http://www.apache.org/licenses/LICENSE-2.0.html)
 
