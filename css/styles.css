@@ -24,13 +24,23 @@ header nav {
     float: right;
 }
 
-#contact {
-    position: fixed;
+.all_content {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 5px 0 0 0;
+}
+.contact {
+    position: sticky;
+    align-self: flex-start;
     text-align: right;
     left: 0;
-    top: 22%;
+    top: 0;
     width: 15%;
-    margin-top: -2.5em;
+    padding: 0 0 0 2%;
+}
+.contact h3 {
+    padding: 23px 0;
+    margin: 0;
 }
 
 a {
@@ -65,10 +75,9 @@ a:hover {
 }
 
 .main {
-    margin: auto;
+    margin-left: 3%;
     width: 60%;
-    border: 3px #333333;
-    padding: 10px;
+    border: 0px #333333;
 }
 
 
