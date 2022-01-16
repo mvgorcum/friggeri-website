@@ -2,17 +2,10 @@
 These templates have been downloaded from:
 https://github.com/mvgorcum/friggeri-website
 
-Original author of the xelatex CV:
-Adrien Friggeri (adrien@friggeri.net)
-https://github.com/afriggeri/CV
-
-The xelatex CV was modified by
-Matthew Davis (matthew@mdavis.xyz)
-
-The website was created by Mathijs van Gorcum, based on Adrien Friggeri's design
+The website was created by Mathijs van Gorcum, based on Adrien Friggeri's design (adrien@friggeri.net) of the xelatex CV.=
 
 Code License:
-CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)
 
 Font Licence:
-Apache 2.0 (https://www.google.com/fonts#UsePlace:use/Collection:Roboto) 
+SIL OPEN FONT LICENSE (https://github.com/mozilla/Fira) 
