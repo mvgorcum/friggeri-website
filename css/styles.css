@@ -1,11 +1,18 @@
  @font-face {
     font-family: FiraSans-light;
-    src: url(fonts/FiraSans-ExtraLight.ttf);
+    src: local("FiraSans-ExtraLight"),
+        local("FiraSans ExtraLight"),
+        local("FiraSans UltraLight"),
+        url("fonts/FiraSans-ExtraLight.woff2"),
+        url(fonts/FiraSans-ExtraLight.ttf);
 }
 
  @font-face {
     font-family: FiraSans-Medium;
-    src: url(fonts/FiraSans-Medium.ttf);
+    src: local("FiraSans-Medium"),
+        local("FiraSans Medium"),
+        url("fonts/FiraSans-Medium.woff2"),
+        url(fonts/FiraSans-Medium.ttf);
 }
 html {
     scroll-behavior: smooth;
@@ -35,7 +42,18 @@ header nav {
     margin: 5px 0 0 0;
 
 }
-.contact {
+@media (max-width: 767px) {                  
+   .contact {
+      display: none;
+   }
+}
+@media (max-width: 900px) {         
+   .main {
+       width: 100% !important;
+       margin-right: 3%;
+   }
+}
+.contact  {
     position: sticky;
     align-self: flex-start;
     text-align: right;
