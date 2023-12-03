@@ -53,6 +53,12 @@ header nav {
        margin-right: 3%;
    }
 }
+@media all and (orientation:portrait) {  
+   .main {
+       width: 100% !important;
+       margin-right: 3%;
+   }
+}
 .contact  {
     position: sticky;
     align-self: flex-start;
